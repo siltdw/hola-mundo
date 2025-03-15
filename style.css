@@ -36,6 +36,13 @@ body {
     padding: 5px;
 }
 
+h1 {
+    font-weight: bold;
+}
+
+p {
+    font-style: italic;
+}
 aside {
     overflow: auto;
 }
